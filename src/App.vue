@@ -9,9 +9,8 @@ import {jsToExcel} from "./assets/jsToExcel.js";
 //修改端口号
 const port = 14569
 //修改几个教室的ip地址第三位
-//1栋 3栋 5栋 6栋 7栋 8栋 9栋 10栋
-//                 56 58             87
 const ip3 = [56,58,87]
+//8栋 58
 //修改超时时间
 const timeout = 0
 //修改服务器的功能
